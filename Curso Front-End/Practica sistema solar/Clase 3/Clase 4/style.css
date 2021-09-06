@@ -1,0 +1,24 @@
+.mydiv {
+    border: 1px outset coral;
+    background-color: rgb(85, 83, 82);
+    text-align: center;
+    display: block;
+    width: 100%;
+    
+}
+
+.flexcontainer {
+    display: block;
+    flex-wrap: nowrap;
+
+}
+
+.flex-container > div {
+    border-radius: 5px;
+    background-color: gold;
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+    line-height: 75%;
+    font-size: 30px;
+}

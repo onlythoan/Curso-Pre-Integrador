@@ -1,0 +1,13 @@
+/* Esto es una hoja de estilos */
+
+body {
+    background-color: rgb(4, 93, 172);
+    text-align: left;
+}
+
+.tituloVerde {
+    color: rgb(235, 252, 8);
+}
+
+.claseroja {color: red;
+}
